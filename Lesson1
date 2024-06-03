@@ -1,0 +1,28 @@
+# Длинна слова
+a = 'Горнорабочий на маркшейдерских работах'
+print(len(a))
+
+# Суммы и разности
+first = 19
+second = 24
+summa = first + second
+diff = first - second
+print(summa, diff)
+
+# Среднее арифметическое
+first = 59
+second = 62
+third = 90
+mean = (first + second + third) / 3
+print(mean)
+
+# Простые строчки
+first_string = "Вторник"
+second_string = 'Понедельник'
+print(second_string + ', ' + first_string)
+# Сложная формула
+a = 2
+b = 3
+c = 5
+f = (a*b) + (a*c)
+print((f **3)//2)
